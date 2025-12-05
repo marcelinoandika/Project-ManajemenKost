@@ -34,10 +34,6 @@ Landing page manajemen kost/hospitality dengan gaya glassmorphism, palet pastel 
 - Ganti hero image: edit `src` pada `.hero-image`.
 - Nonaktifkan efek partikel: hapus inisialisasi `createParticles()` di `<script>`.
 
-## Kredit
-- Font: Plus Jakarta Sans (Google Fonts).
-- Gambar: `pexels-zachtheshoota-1838640.jpg` (sertakan atribusi sesuai lisensi).
-
 ## Deploy Cepat
 - GitHub Pages / Vercel / Netlify: cukup unggah `index.html` dan file gambar.
 - Tidak ada dependency build; murni HTML/CSS/JS.
